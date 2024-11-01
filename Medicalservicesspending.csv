@@ -1,15 +1,3 @@
-﻿FRED Graph Observations,,,
-Federal Reserve Economic Data,,,
-Link: https://fred.stlouisfed.org,,,
-Help: https://fredhelp.stlouisfed.org,,,
-Economic Research Division,,,
-Federal Reserve Bank of St. Louis,,,
-,,,
-MDSBDSPIBLEND_NBD20000101,"Medical Services Expenditures by Disease Price Index, Blended Account Basis, Index 2000=100, Annual, Not Seasonally Adjusted",,
-INFAPSPIBLEND_NBD20000101,"Medical Services Expenditures by Disease: Infectious and Parasitic Diseases Price Index, Blended Account Basis, Index 2000=100, Annual, Not Seasonally Adjusted",,
-MNINEIPIBLEND_NBD20000101,"Medical Services Expenditures by Disease: Mental Illness Price Index, Blended Account Basis, Index 2000=100, Annual, Not Seasonally Adjusted",,
-,,,
-Frequency: Annual,,,
 observation_date,MDSBDSPIBLEND_NBD20000101,INFAPSPIBLEND_NBD20000101,MNINEIPIBLEND_NBD20000101
 2000-01-01,100.0,100.0,100.0
 2001-01-01,107.9,108.8,99.8
